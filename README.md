@@ -1,4 +1,4 @@
-# sagemath-bootcamp
+# Graph- and Group Theory using the Computer Algebra System SageMath
 
 This repository represents my playground for exploring the beautiful software system SageMath which plays a fundamental role in all of my research. The code does not follow any particular structure and is most likely not up to date.
 
